@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ApplicationProperties</key>
+	<dict>
+		<key>ApplicationPath</key>
+		<string>Applications/JustForMyTest.app</string>
+		<key>CFBundleIdentifier</key>
+		<string>com.xiaolonglv.apptest</string>
+		<key>CFBundleShortVersionString</key>
+		<string>1.0</string>
+		<key>CFBundleVersion</key>
+		<string>8</string>
+		<key>SigningIdentity</key>
+		<string>Apple Distribution: XIAOLONG LV (X443Y8A46W)</string>
+		<key>Team</key>
+		<string>X443Y8A46W</string>
+	</dict>
+	<key>ArchiveVersion</key>
+	<integer>2</integer>
+	<key>CreationDate</key>
+	<date>2020-09-12T08:14:23Z</date>
+	<key>Name</key>
+	<string>SwiftAutoUIProj</string>
+	<key>SchemeName</key>
+	<string>SwiftAutoUIProj</string>
+</dict>
+</plist>
